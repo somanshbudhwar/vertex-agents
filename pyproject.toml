@@ -7,4 +7,5 @@ requires-python = ">=3.13"
 dependencies = [
     "google-cloud-aiplatform[adk,agent-engines]>=1.112",
     "requests",
+    "python-dotenv",
 ]
